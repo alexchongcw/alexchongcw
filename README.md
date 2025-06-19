@@ -1,9 +1,17 @@
 # About me
 
-I'm Alex and Welcome to my profile!!
+Hi, I'm Alex, a former technical professional now transitioning into the role of a Business Intelligence Developer and Analyst. With detail-oriented and strong analytical skills, project management experience, and expertise in leveraging data analysis and visualization tools, I drive performance improvements and support strategic decision-making.
 
-- 🔭 I am proactive and detail-oriented with a passion for data analysis and I recently completed on a Property Analysis and Feedback Analysis projects using Microsoft BI Suite and Fabric.
-- 🌱 I thrive in extracting meaningful insights from complex datasets and have a proven track record of using data to inform strategic decision-making. With a keen eye for detail and a commitment to continuous learning, I am poised to make a meaningful impact in the ever-evolving field of data analytics.
-- 📫 How to reach me: alexchongcw@gmail.com
-- ⚡ Fun fact: I am an execellent chef 👨‍🍳
+My goals are: Driven by a passion for transforming data into actionable insights. I thrive in dynamic, fast-paced environments and excel at collaborating with cross-functional teams to influence strategic decisions. My Microsoft Power BI Data Analyst and Fabric Analytics Engineer Associate certifications highlight my dedication to remaining at the forefront of business intelligence tools and technologies.
+
+My top skills are: 
+
+- Data Analysis
+- Data Visualization (Microsoft Power BI, SSRS, Excel)
+- Project Management
+- SQL, Python
+
+*One of my greatest accomplishments is creating an intuitive dashboard from scratch with zero Power BI experience!*
+
+I invite you to explore my projects. Feel free to email me at *alexchongcw@gmail.com* with any questions or feedback!
 
